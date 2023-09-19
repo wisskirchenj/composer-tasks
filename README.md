@@ -3,8 +3,6 @@
 Implemented in the <b>Introduction to Docker</b> Track of hyperskill.org's JetBrain Academy.<br>
 https://hyperskill.org/projects/374
 
-Project goal is to implement a Spring boot recipe application with Spring Security and persisting into an H2 database.
-
 ## Technology / External Libraries
 
 - docker-compose 3.1
