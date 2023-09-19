@@ -39,3 +39,5 @@ environment variables. Use `docker-compose up` to start the container. Use `dock
 
 19.09.23 Stage 4 completed. Open port `8000` on host and connect it to the uvicorn webserver. Also share the network 
 created in stage 2 with the hyper-service to allow for CRUD-operations of the app into the Mongo DB.
+
+19.09.23 Stage 5 completed. Just add a compose up shell script `up.sh` to start the app.
