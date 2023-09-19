@@ -21,7 +21,7 @@ variables, networks, and other configurations.
 
 ## Project completion
 
-[//]: # (Project was completed on 01.01.23.)
+Project was completed on 19.09.23.
 
 ## Repository Contents
 
@@ -41,3 +41,7 @@ environment variables. Use `docker-compose up` to start the container. Use `dock
 created in stage 2 with the hyper-service to allow for CRUD-operations of the app into the Mongo DB.
 
 19.09.23 Stage 5 completed. Just add a compose up shell script `up.sh` to start the app.
+
+19.09.23 Stage 6 completed. Use the Python app with `http-client` or `http(ie)` to insert / delete and persists some task.
+
+19.09.23 Final Stage 7 completed. Add a `cleanup.sh` script to remove container, images, network and volume.
