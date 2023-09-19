@@ -8,7 +8,9 @@ Project goal is to implement a Spring boot recipe application with Spring Securi
 ## Technology / External Libraries
 
 - docker-compose 3.1
+- Dockerfile (for hyper-service)
 - Mongo-DB 6.0 (pulled official image)
+- Python app on uvicorn webserver in docker.
 
 ## Program description
 
